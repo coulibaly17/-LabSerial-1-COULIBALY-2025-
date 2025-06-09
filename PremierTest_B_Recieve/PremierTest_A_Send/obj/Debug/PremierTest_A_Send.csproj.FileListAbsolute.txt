@@ -1,0 +1,10 @@
+C:\Users\cibro\Desktop\POC2025\PremierTest_A_Send\bin\Debug\PremierTest_A_Send.exe.config
+C:\Users\cibro\Desktop\POC2025\PremierTest_A_Send\bin\Debug\PremierTest_A_Send.exe
+C:\Users\cibro\Desktop\POC2025\PremierTest_A_Send\bin\Debug\PremierTest_A_Send.pdb
+C:\Users\cibro\Desktop\POC2025\PremierTest_A_Send\obj\Debug\PremierTest_A_Send.csproj.AssemblyReference.cache
+C:\Users\cibro\Desktop\POC2025\PremierTest_A_Send\obj\Debug\PremierTest_A_Send.Form1.resources
+C:\Users\cibro\Desktop\POC2025\PremierTest_A_Send\obj\Debug\PremierTest_A_Send.Properties.Resources.resources
+C:\Users\cibro\Desktop\POC2025\PremierTest_A_Send\obj\Debug\PremierTest_A_Send.csproj.GenerateResource.cache
+C:\Users\cibro\Desktop\POC2025\PremierTest_A_Send\obj\Debug\PremierTest_A_Send.csproj.CoreCompileInputs.cache
+C:\Users\cibro\Desktop\POC2025\PremierTest_A_Send\obj\Debug\PremierTest_A_Send.exe
+C:\Users\cibro\Desktop\POC2025\PremierTest_A_Send\obj\Debug\PremierTest_A_Send.pdb
